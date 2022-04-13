@@ -1,9 +1,11 @@
 Asteroids
 
 wasd controlled ship
+spacebar to shoot
 going to edge takes to another edge
-shooting on space
-spawning asteroids with direction
-asteroids break three times
-shatter to smaller asteroids with changing speeds
-score count
+spawning asteroids with direction and random shapes
+asteroids break three times with each being about half of the size than the last one.
+shatterring breaks smaller asteroids with new velocity and more speed
+score count with each hit giving score
+hitting asteroid kills the players and spawn player in the middle of screen
+player has three lives.
