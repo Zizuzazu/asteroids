@@ -1,0 +1,9 @@
+Asteroids
+
+wasd controlled ship
+going to edge takes to another edge
+shooting on space
+spawning asteroids with direction
+asteroids break three times
+shatter to smaller asteroids with changing speeds
+score count
